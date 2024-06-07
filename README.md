@@ -16,7 +16,7 @@ I selected a Portfolio Website Design from Dribbble, opting for a minimalist des
 ![ui image](./rmiange/img.png)
 
 
-Implementation:
+## Implementation:
 
 This project was built using React.js and Vite.js, leveraging CSS and Tailwind CSS for crafting stunning designs. It focuses on creating a visually appealing and responsive hero section, ensuring an optimal viewing experience across various devices, including desktop and mobile.
 
@@ -34,13 +34,15 @@ Attached all relevant images and resources for web and mobile views.
 ![ui image](./rmiange/img3.png)
 
 ## published details
-This project is hosted on Netlify's free tier. A pipeline has been set up to automate the deployment process: whenever changes are pushed to the master branch on GitHub, Netlify automatically builds and publishes the project.
+This project is hosted on Netlify's free tier. <br />
+ A pipeline has been set up to automate the deployment process: whenever changes are pushed to the master branch on GitHub, Netlify automatically builds and publishes the project.
 
-Deployment Process:
-Hosted on Netlify's free tier for seamless deployment.
+Deployment Process:  <br />
+Hosted on Netlify's free tier for seamless deployment. <br />
 Automatic pipeline configured to trigger deployment on each push to the master branch on GitHub.
-
+ <br />
 Url - https://dhanudev.netlify.app/
+
 ## Run
 
 1.Clone the Project <br />
@@ -49,4 +51,4 @@ Url - https://dhanudev.netlify.app/
 4.Once the dependencies are installed, you can start the development server. Use the following command: <br />
 
 [npm run dev] <br />
-5.Your React + Vite.js project should now be running locally. You can access it in your web browser at the specified address, usually http://localhost:3000.
+5.Your React + Vite.js project should now be running locally. You can access it in your web browser at the specified address, usually http://localhost:3000.  <br /> <br />
