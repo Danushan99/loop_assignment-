@@ -32,3 +32,16 @@ Attached all relevant images and resources for web and mobile views.
 
 ### web view
 ![ui image](./rmiange/img3.png)
+
+## published details
+
+
+## Run
+
+1.Clone the Project
+2.Navigate into the project directory
+3.Install project dependencies using npm or Yarn. If you're using npm
+4.Once the dependencies are installed, you can start the development server. Use the following command:
+
+[npm run dev]
+5.Your React + Vite.js project should now be running locally. You can access it in your web browser at the specified address, usually http://localhost:3000.
