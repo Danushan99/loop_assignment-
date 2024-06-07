@@ -34,8 +34,13 @@ Attached all relevant images and resources for web and mobile views.
 ![ui image](./rmiange/img3.png)
 
 ## published details
+This project is hosted on Netlify's free tier. A pipeline has been set up to automate the deployment process: whenever changes are pushed to the master branch on GitHub, Netlify automatically builds and publishes the project.
 
+Deployment Process:
+Hosted on Netlify's free tier for seamless deployment.
+Automatic pipeline configured to trigger deployment on each push to the master branch on GitHub.
 
+Url - https://dhanudev.netlify.app/
 ## Run
 
 1.Clone the Project <br />
