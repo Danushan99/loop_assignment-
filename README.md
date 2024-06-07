@@ -27,8 +27,8 @@ Ensured the hero section's responsiveness for seamless viewing on both desktop a
 Included Assets:
 Attached all relevant images and resources for web and mobile views.
 
-web view 
+mobile view 
 ![ui image](./rmiange/img2.png)
 
-mobile view
+ web view
 ![ui image](./rmiange/img3.png)
